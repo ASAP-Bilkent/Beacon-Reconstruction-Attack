@@ -31,9 +31,8 @@ Kousar Kousar, A. Ercument Cicek, and Sinem Sav
 ---
 ## Getting Started
 
-1. Clone the repository:
+1. Clone the repository, then:
    ```bash
-   git clone https://github.com/yourusername/beacon-reconstruction.git
    cd beacon-reconstruction
 
 2. Install dependencies from requirements.txt
