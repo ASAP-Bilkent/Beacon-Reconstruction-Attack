@@ -14,6 +14,7 @@ Kousar Kousar, A. Ercument Cicek, and Sinem Sav
 ## Table of Contents
 - [Features](#features)
 - [Getting Started](#getting-started)
+- [Installation](#installation)
 - [Usage Instructions](#usage-instructions)
 - [Citations](#citations)
 - [License](#license)
