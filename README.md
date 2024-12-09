@@ -40,7 +40,7 @@ Kousar Kousar, A. Ercument Cicek, and Sinem Sav
 
 You need to install the following dependencies in Python3 for this project:
    ``bash
-pip3 install numpy scipy matplotlib torch pandas argparse==1.4.0
+   pip3 install numpy scipy matplotlib torch pandas argparse==1.4.0
 
 ---
 
