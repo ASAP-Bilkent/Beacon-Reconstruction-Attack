@@ -31,7 +31,7 @@ Kousar Kousar, A. Ercument Cicek, and Sinem Sav
 ---
 ## Getting Started
 
-- Clone the repository, then:
+- Clone the repository:
    ```bash
    cd Beacon-Reconstruction-Attack
 ---
