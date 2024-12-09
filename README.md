@@ -38,7 +38,7 @@ Kousar Kousar, A. Ercument Cicek, and Sinem Sav
 
 ## Installation
 
-1. You need to install the following dependencies in Python3 for this project:
+- You need to install the following dependencies in Python3 for this project:
    ```bash
    pip3 install numpy scipy matplotlib torch pandas argparse
 
