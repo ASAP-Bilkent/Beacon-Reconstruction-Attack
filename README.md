@@ -33,7 +33,7 @@ Kousar Kousar, A. Ercument Cicek, and Sinem Sav
 
 1. Clone the repository, then:
    ```bash
-   cd beacon-reconstruction
+   cd Beacon-Reconstruction-Attack
 
 2. Install dependencies from requirements.txt
    ```bash
