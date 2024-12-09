@@ -65,9 +65,6 @@ Kousar Kousar, A. Ercument Cicek, and Sinem Sav
 - `--freq_epoch`: Stage 2 of optimization for frequency loss.
 
 ---
-## Citations
-
----
 ## License
 
 [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
