@@ -7,7 +7,7 @@
 
 ## Authors
 
-Kousar Kousar, A. Ercument Cicek, and Sinem Sav  
+Kousar Saleem, A. Ercument Cicek, and Sinem Sav  
 
 ---
 
