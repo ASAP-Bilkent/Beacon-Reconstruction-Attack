@@ -53,7 +53,7 @@ Kousar Kousar, A. Ercument Cicek, and Sinem Sav
 
 ### Key Arguments
 
-- `--Beacon_Size`: Number of individuals targeted for reconstruction.
+- `--beacon_Size`: Number of individuals targeted for reconstruction.
 - `--snp_count`: Size of the SNP subset in the beacon.
  
 ### Running Optimization Simulations
@@ -63,7 +63,7 @@ Kousar Kousar, A. Ercument Cicek, and Sinem Sav
 
 ### Key Arguments
 
-- `--Beacon_Size`: Number of individuals targeted for reconstruction.
+- `--beacon_Size`: Number of individuals targeted for reconstruction.
 - `--snp_count`: Size of the SNP subset in the beacon.
 - `--corr_epoch`: Stage 1 of optimization for correlation loss.
 - `--freq_epoch`: Stage 2 of optimization for frequency loss.
